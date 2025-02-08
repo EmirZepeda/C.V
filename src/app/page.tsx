@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { jsPDF } from "jspdf";
-import { FaReact, FaNodeJs, FaCss3Alt, FaJsSquare, FaCheckCircle } from "react-icons/fa";
+import { FaReact, FaNodeJs, FaCheckCircle } from "react-icons/fa";
 import { SiNextdotjs, SiTailwindcss, SiTypescript } from "react-icons/si";
 
 const CVPage: React.FC = () => {

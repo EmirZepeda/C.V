@@ -57,7 +57,7 @@ const CVPage: React.FC = () => {
   const closePortfolioModal = () => setPortfolioModalData(null);
 
   const puntosDestacados = [
-    "Desarrollador con experiencia en React y Node.js.",
+    "Desarrollador con experiencia en React y Node.js,,",
     "Participación en soluciones de software de alto impacto para clientes corporativos.",
     "Especialista en tecnologías modernas como Tailwind CSS y TypeScript.",
     "En mi proceso de estadia en SoftTech hice un administrador de usuarios para TELCEL.",
